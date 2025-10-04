@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.adidatica.com.br/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.adidatica.com.br/</loc>
+</url>
+<url>
+<loc>https://www.adidatica.com.br/contato/</loc>
+<lastmod>2025-10-03T22:43:25-03:00</lastmod>
+</url>
+<url>
+<loc>https://www.adidatica.com.br/politicas/</loc>
+<lastmod>2025-10-03T22:46:22-03:00</lastmod>
+</url>
+<url>
+<loc>https://www.adidatica.com.br/sobre/</loc>
+<lastmod>2025-10-03T22:46:04-03:00</lastmod>
+</url>
+<url>
+<loc>https://www.adidatica.com.br/termos/</loc>
+<lastmod>2025-10-03T22:46:14-03:00</lastmod>
+</url>
+</urlset>
